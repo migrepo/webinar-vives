@@ -1,1 +1,1 @@
-var linkWebinar = 'https://www.google.com';
+var linkWebinar = 'https://upc.workplace.com/work/landing/input/';
