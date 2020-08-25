@@ -1,2 +1,1 @@
-var webinarLink ='https://upc.workplace.com/work/landing/input/';
-
+var webinarLink = 'https://upc.workplace.com/work/landing/input/';
