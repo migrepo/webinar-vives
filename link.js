@@ -1,1 +1,1 @@
-var linkWebinar = 'https://www.youtube.com';
+var linkWebinar = 'https://www.google.com';
